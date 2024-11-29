@@ -48,6 +48,20 @@ A Java-based Hospital Management System designed to manage patient and doctor re
 - **JDBC** : For database connectivity.
 - **MySQL** : For data storage.
 
+# 4. File_Hidding_Project
+
+## Project Description
+
+The **File Hiding Project** is a Java-based application that allows users to hide files within other files for secure storage. This project also integrates with a database to manage file paths and hidden content.
+
+## Features
+
+- **Hide Files** : Hide a file from another file.
+- **Unhide Files** : Retrieve the hidden file.
+- **Database Integration** : Store file metadata (like paths and hidden content) in a MySQL database for management.
+- **Simple User Interface** : Interact with the application through a simple console-based interface.
+- **Maven**: The project uses Maven for dependency management.
+- 
 ## Prerequisites
 
 - **Java Development Kit (JDK)** version 8 or above.
